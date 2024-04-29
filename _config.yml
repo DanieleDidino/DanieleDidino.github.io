@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Daniele's Homepage"
 title_separator          : "-"
 name                     : &name "Daniele Didino"
-description              : &description "Data Analyst & Data Scientist | Ex Cognitive Scientist"
+description              : &description "Personal website"
 url                      : "https://danieledidino.github.io" # https://academicpages.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DanieleDidino/DanieleDidino.github.io" # "academicpages/academicpages.github.io"
@@ -24,20 +24,20 @@ author:
   avatar           : "profile.png"
   name             : "Daniele Didino"
   pronouns         : # example: "she/her"  
-  bio              : "I am a Data Scientist, holding a Ph.D. in Cognitive Sciences. Proficient in Python, R, and SQL, with 10+ years of experience in data analysis and machine learning."
+  bio              : "Data Analyst & Data Scientist | Ex Cognitive Scientist"
   location         : "Berlin (Germany)"
   employer         : "D-AI-logy"
   uri              : # URL
   email            : "daniele.didino@gmail.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : # URL
+  googlescholar    : # URL
   impactstory      : # URL
-  orcid            : # "http://orcid.org/yourorcidurl"
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : # URL
+  pubmed           : # URL
   researchgate     : # URL
-  OSF              : https://osf.io/agd7c/
+  OSF              : "https://osf.io/agd7c/"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
