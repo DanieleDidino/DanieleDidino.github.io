@@ -1,0 +1,4 @@
+.thick-hr {
+    height: 3px;
+    background-color: black; /* Optionally, you can specify the color of the line */
+}
