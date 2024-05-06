@@ -6,4 +6,4 @@ collection: portfolio
 
 This should be item number 3. 
 
-{% include test1.html %}
+{% include /images/test1.html %}
