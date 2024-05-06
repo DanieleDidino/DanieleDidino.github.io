@@ -211,6 +211,18 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  data_viz:
+    output: true
+    permalink: /:collection/:path/
+  eda:
+    output: true
+    permalink: /:collection/:path/
+  data_collection:
+    output: true
+    permalink: /:collection/:path/
+  data_modeling:
+    output: true
+    permalink: /:collection/:path/
   LLM_projects:
     output: true
     permalink: /:collection/:path/
@@ -269,6 +281,38 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _data_viz
+  - scope:
+      path: ""
+      type: data_viz
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _eda
+  - scope:
+      path: ""
+      type: eda
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _data_collection
+  - scope:
+      path: ""
+      type: data_collection
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _data_modeling
+  - scope:
+      path: ""
+      type: data_modeling
+    values:
+      layout: single
       author_profile: true
       share: true
   # _LLM_projects

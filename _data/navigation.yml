@@ -1,25 +1,38 @@
 # main links links
 main:
-  - title: "Publications"
-    url: https://scholar.google.com/citations?user=M3qWuYcAAAAJ&hl=en&oi=ao # url: /publications/
+  - title: "Data Visualization"
+    url: /data_viz/
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "EDA"
+    url: /eda/
 
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
-  - title: "CV"
-    url: /files/DanieleDidino_Resume.pdf # url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Data Collection"
+    url: /data_collection/
+
+  - title: "Data Modeling"
+    url: /data_modeling/
   
   - title: "LLM"
     url: /LLM_projects/
+
+  - title: "Portfolio"
+    url: /portfolio/
+
+  - title: "CV"
+    url: /files/DanieleDidino_Resume.pdf # url: /cv/
+  
+  - title: "Publications"
+    url: https://scholar.google.com/citations?user=M3qWuYcAAAAJ&hl=en&oi=ao # url: /publications/
+  
+  # - title: "Talks"
+  #   url: /talks/    
+  
+  # - title: "Teaching"
+  #   url: /teaching/    
+  
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+  
+  - title: "Guide"
+    url: /markdown/
+  
