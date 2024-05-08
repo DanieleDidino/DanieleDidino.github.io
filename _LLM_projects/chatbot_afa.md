@@ -1,5 +1,5 @@
 ---
-title: "Chatbot - <i>Agentur für Arbeit</i>"
+title: ""
 excerpt: "Chat with the documents from the <i>Agentur für Arbeit</i> <br/><img src='/images/chatbot_afa_2.png'>"
 collection: project1
 ---
@@ -10,6 +10,55 @@ Chat with the documents from the <i>Agentur für Arbeit</i>
 <br>
 <img src="/images/chatbot_afa_1.png" alt="drawing" width="300"/>
 </h1>
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+
+<body>
+<div class="row">
+  <div class="column">
+    <h2 style="font-size:20px">Demo App</h2>
+    <p>
+        The <b>Demo App</b> is available here:<br><br>
+        <a href="https://chatbotafa-dgzurhjau4dm3ofd9ezzmk.streamlit.app/"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg"></a><br><br>
+        You will need an <b>OpenAI API key</b> (you can create one <a href="https://platform.openai.com/account/api-keys">here</a>).
+    </p>
+  </div>
+  <div class="column">
+    <h2 style="font-size:20px">GitHub Repository</h2>
+    <p>
+        Discover the code and installation guidelines within this project's repository.<br><br>
+        <a href="https://github.com/DanieleDidino/chatbot_afa"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+    </p>
+  </div>
+</div>
+</body>
+
+## Description
 
 Thank you for your interest in my chatbot. Please note that this is only a Proof of Concept system and may contain bugs or unfinished features.
 
@@ -44,15 +93,3 @@ In the final step, the context obtained from the retrieved documents is combined
 <img src="/images/chatbot_afa_RAG_pipeline.png" alt="drawing" width="500"/>
 <br>RAG pipeline
 </p>
-
-## Demo App
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatbotafa-dgzurhjau4dm3ofd9ezzmk.streamlit.app/)
-
-You will need an <b>OpenAI API key</b> (you can create one [here](https://platform.openai.com/account/api-keys)).
-
-## GitHub Repository
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanieleDidino/chatbot_afa)
-
-Discover the code and installation guidelines within this project's repository.
