@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Chatbot - <i>Agentur für Arbeit</i> <br/>"
 excerpt: "Chat with the documents from the <i>Agentur für Arbeit</i> <br/><img src='/images/chatbot_afa_2.png'>"
 collection: project1
 ---
