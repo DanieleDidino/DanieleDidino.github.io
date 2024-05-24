@@ -4,6 +4,8 @@ excerpt: "Chat with the documents from the <i>Agentur für Arbeit</i> <br/><img 
 collection: LLM_projects
 ---
 
+Chat with the documents from the <i>Agentur für Arbeit</i>
+
 <h1 align="center">
 <!-- Chat with the documents from the <i>Agentur für Arbeit</i> -->
 <br>
