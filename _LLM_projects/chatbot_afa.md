@@ -5,7 +5,7 @@ collection: LLM_projects
 ---
 
 <h1 align="center">
-Chat with the documents from the <i>Agentur für Arbeit</i>
+<!-- Chat with the documents from the <i>Agentur für Arbeit</i> -->
 <br>
 <br>
 <img src="/images/chatbot_afa_1.png" alt="drawing" width="300"/>
