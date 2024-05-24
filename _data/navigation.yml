@@ -21,8 +21,8 @@ main:
   - title: "CV"
     url: /files/DanieleDidino_Resume.pdf # url: /cv/
   
-  - title: "Publications"
-    url: https://scholar.google.com/citations?user=M3qWuYcAAAAJ&hl=en&oi=ao # url: /publications/
+  # - title: "Publications"
+  #   url: https://scholar.google.com/citations?user=M3qWuYcAAAAJ&hl=en&oi=ao # url: /publications/
   
   # - title: "Talks"
   #   url: /talks/    
