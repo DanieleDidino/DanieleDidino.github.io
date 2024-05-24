@@ -5,7 +5,7 @@ collection: data_viz
 ---
 
 <h1 align="center">
-<a href="[/link/to/site](https://public.tableau.com/views/AirbnbEuropeanCities/Dashboard12)">
+<a href="https://public.tableau.com/views/AirbnbEuropeanCities/Dashboard12">
   <img src="/images/dashboard-airbnb.png" alt="drawing" width="300"/>
 </a>
 </h1>
