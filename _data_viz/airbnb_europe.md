@@ -1,6 +1,6 @@
 ---
 title: " Airbnb prices in European cities Dashboard"
-excerpt: "Explore the Airbnb Europe Dataset Dashboard.<br/><img src='/images/dashboard-airbnb.png'>"
+excerpt: "Explore the Airbnb Europe Dataset Dashboard.<br/><img src='/images/dashboard-airbnb.png' width="50"/>"
 collection: project1
 ---
 
@@ -8,21 +8,16 @@ collection: project1
 <img src="/images/dashboard-airbnb.png" alt="drawing" width="300"/>
 </h1>
 
-<a href="https://public.tableau.com/views/AirbnbEuropeanCities/Dashboard12">
-<img class='report' src="/images/dashboard.png"  width="10"/>
-</a>
-Click here to start exploring the Airbnb Europe Dataset Dashboard
+Click [here](https://public.tableau.com/views/AirbnbEuropeanCities/Dashboard12) to start exploring the Airbnb Europe Dataset Dashboard.
 
 Dive into an interactive Tableau Dashboard to explore comprehensive pricing information and more across nine major European cities: Amsterdam, Athens, Barcelona, Berlin, Budapest, Lisbon, Paris, Rome, and Vienna. This dashboard allows you to analyze and compare key metrics including:
 
-- `Average Price`: Understand how prices vary by city, room type, day of the week, and host status.
-- `Cleanliness Rating`: Gauge the cleanliness of properties (scale of 1-10, with 10 being the best).
-- `Guest Satisfaction`: Explore overall guest satisfaction (scale of 1-100, with 100 being the highest).
-- `Proximity Indices`: Examine properties' proximity to tourist attractions and restaurants, each normalized on a scale of 1-100, with higher scores indicating closer proximity.
-- `Distance Metrics`: View average distances to city centers and the nearest metro stations in kilometers.
+- **Average Price**: Understand how prices vary by city, room type, day of the week, and host status.
+- **Cleanliness Rating**: Gauge the cleanliness of properties (scale of 1-10, with 10 being the best).
+- **Guest Satisfaction**: Explore overall guest satisfaction (scale of 1-100, with 100 being the highest).
+- **Proximity Indices**: Examine properties' proximity to tourist attractions and restaurants, each normalized on a scale of 1-100, with higher scores indicating closer proximity.
+- **Distance Metrics**: View average distances to city centers and the nearest metro stations in kilometers.
 
 Additionally, the dashboard offers insights into price distributions per city and customizable filters such as Room Type, Guest Satisfaction, Cleanliness, Day of the Week, and whether the host is a Superhost.
-
-Click [here](https://public.tableau.com/views/AirbnbEuropeanCities/Dashboard12) to start exploring the Airbnb Europe Dataset Dashboard.
 
 Access the original dataset [here](https://www.kaggle.com/datasets/dipeshkhemani/airbnb-cleaned-europe-dataset/data) on Kaggle.
