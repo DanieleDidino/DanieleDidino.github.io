@@ -5,7 +5,7 @@ collection: data_viz
 ---
 
 Airbnb Prices in European Cities
-======
+
 
 <h1 align="center">
 <img src="/images/dashboard-airbnb.png" alt="drawing" width="400"/>
