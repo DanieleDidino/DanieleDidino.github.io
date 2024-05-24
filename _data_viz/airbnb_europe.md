@@ -1,6 +1,6 @@
 ---
 title: " Airbnb Prices in European Cities"
-excerpt: "Dive into an interactive Tableau Dashboard to explore pricing information and more across nine major European cities: Amsterdam, Athens, Barcelona, Berlin, Budapest, Lisbon, Paris, Rome, and Vienna.<br/><img src='/images/dashboard-airbnb.png' style='width:5%; height:auto;'>"
+excerpt: "Dive into an interactive Tableau Dashboard to explore pricing information and more across nine major European cities: Amsterdam, Athens, Barcelona, Berlin, Budapest, Lisbon, Paris, Rome, and Vienna.<br/><img src='/images/dashboard-airbnb.png' style='width:30%; height:auto;'>"
 collection: data_viz
 ---
 
