@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Data Science & projects"
+title: "Data Science & Projects"
 permalink: /data_proj/
 author_profile: true
 ---
@@ -13,3 +13,7 @@ author_profile: true
   <hr style="height:3px; border:none; color:#333; background-color:#333;"> <!-- Add a horizontal line between sections -->
 {% endfor %}
 
+{% for post in site.data_viz %}
+  {% include archive-single.html %}
+  <hr style="height:3px; border:none; color:#333; background-color:#333;"> <!-- Add a horizontal line between sections -->
+{% endfor %}

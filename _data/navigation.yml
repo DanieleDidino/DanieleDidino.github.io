@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Data Science & projects"
+  - title: "Data Science & Projects"
     url: /data_proj/
   
   - title: "Data Visualization"
@@ -9,8 +9,8 @@ main:
   - title: "EDA"
     url: /eda/
 
-  - title: "Data Collection"
-    url: /data_collection/
+  # - title: "Data Collection"
+  #   url: /data_collection/
 
   - title: "Data Modeling"
     url: /data_modeling/

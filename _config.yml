@@ -297,13 +297,13 @@ defaults:
       author_profile: true
       share: true
   # _data_collection
-  - scope:
-      path: ""
-      type: data_collection
-    values:
-      layout: single
-      author_profile: true
-      share: true
+  # - scope:
+  #     path: ""
+  #     type: data_collection
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
   # _data_modeling
   - scope:
       path: ""
