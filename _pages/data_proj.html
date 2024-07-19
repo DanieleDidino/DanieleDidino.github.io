@@ -5,22 +5,28 @@ permalink: /data_proj/
 author_profile: true
 ---
 
+<style>
+  h1 {text-align: center;}
+  p {text-align: center;}
+  div {text-align: center;}
+</style>
+
 {% include base_path %}
 
-<h2 align="center">
+<h1 align="center">
   <b>Large Language Models</b> 
-  </h2>
+  </h1>
 
 {% for post in site.LLM_projects %}
-  <h2 align="center">
+  <div align="center">
     {% include archive-single.html %}
     <hr style="height:3px; border:none; color:#333; background-color:#333;"> <!-- Add a horizontal line between sections -->
-  </h2>
+  </div>
 {% endfor %}
 
-<h2 align="center">
+<h1 align="center">
   <b>Data Visualization</b> 
-  </h2>
+  </h1>
 
 {% for post in site.data_viz %}
   <h2 align="center">
