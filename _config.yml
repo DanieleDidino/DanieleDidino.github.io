@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Daniele Didino"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/his"  
   bio              : "Data Analyst & Data Scientist | Ex Cognitive Scientist"
   location         : "Berlin (Germany)"
-  employer         : "D-AI-logy"
+  employer         : "Dailogy"
   uri              : # URL
   email            : "daniele.didino@gmail.com" 
 
@@ -199,16 +199,10 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
   data_viz:
@@ -248,15 +242,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -275,14 +260,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
   # _data_viz
   - scope:
       path: ""

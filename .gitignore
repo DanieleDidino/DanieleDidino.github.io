@@ -1,4 +1,6 @@
 .git
+Instructions.md
+Instructions_markdown.md
 
 # Ignore the contents of the _site directory
 _site/
