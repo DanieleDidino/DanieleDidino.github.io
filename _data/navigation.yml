@@ -16,13 +16,14 @@ main:
     url: /LLM_projects/
 
   - title: "Statistics"
-    url: /Statistics/
+    url: /statistics/
 
   # - title: "Portfolio"
   #   url: /portfolio/
 
   - title: "CV"
-    url: /files/DanieleDidino_Resume.pdf # url: /cv/
+    url: /cv/
+    # url: /files/DanieleDidino_Resume.pdf
   
   # - title: "Publications"
   #   url: https://scholar.google.com/... # url: /publications/
