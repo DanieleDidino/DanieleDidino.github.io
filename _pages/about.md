@@ -14,31 +14,8 @@ Profile
 ======
 I am a Data Scientist, holding a Ph.D. in Cognitive Sciences. Proficient in Python, R, and SQL, with 10+ years of experience in data analysis and machine learning. I bring a profound understanding of the latest machine learning algorithms, coupled with a deep motivation to apply cutting-edge technologies in real-world scenarios. I enjoy dealing with complex problems and finding solutions. I have significant experience in designing and leading research projects from beginning to completion.
 
-Content
-======
-Explain here the structure of the website, that is explain that there are different sections (Data Visualization, EDA, Data Collection, Data Modelling, LLM, CV)
+[Here](/_data_proj/) a
 
-Data Visualization
-------
-*Coming soon ...*
 
-EDA
-------
-*Coming soon ...*
-
-Data Collection
-------
-*Coming soon ...*
-
-Data modelling
-------
-*Coming soon ...*
-
-LLM
-------
-*Coming soon ...* [add link](https://...)
-
-Statistics
-------
-*Bayesian hierarchical modeling... coming soon ...* [add link](https://...)
-
+[Here](/data_proj/) the pdf version.
+[Here](/data_proj/) is a portfolio of data projects from my education, personal ventures, and working at Dailogy. More updates are coming!
