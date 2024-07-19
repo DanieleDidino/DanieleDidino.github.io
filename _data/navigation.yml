@@ -9,9 +9,6 @@ main:
   - title: "EDA"
     url: /eda/
 
-  # - title: "Data Collection"
-  #   url: /data_collection/
-
   - title: "Data Modeling"
     url: /data_modeling/
   
@@ -27,9 +24,6 @@ main:
   - title: "CV"
     url: /cv/
     # url: /files/DanieleDidino_Resume.pdf
-  
-  # - title: "Publications"
-  #   url: https://scholar.google.com/... # url: /publications/
   
   # - title: "Blog Posts"
   #   url: /year-archive/
