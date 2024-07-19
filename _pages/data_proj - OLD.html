@@ -1,0 +1,26 @@
+---
+layout: archive
+title: "Data Science & Projects"
+permalink: /data_proj/
+author_profile: true
+---
+
+{% include base_path %}
+
+<h3 align="left">
+  <b>Large Language Models</b> 
+  </h3>
+
+{% for post in site.LLM_projects %}
+  {% include archive-single.html %}
+  <hr style="height:3px; border:none; color:#333; background-color:#333;"> <!-- Add a horizontal line between sections -->
+{% endfor %}
+
+<h3 align="left">
+  <b>Data Visualization</b> 
+  </h3>
+
+{% for post in site.data_viz %}
+  {% include archive-single.html %}
+  <hr style="height:3px; border:none; color:#333; background-color:#333;"> <!-- Add a horizontal line between sections -->
+{% endfor %}
