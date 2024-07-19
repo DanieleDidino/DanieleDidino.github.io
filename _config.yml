@@ -220,6 +220,9 @@ collections:
   LLM_projects:
     output: true
     permalink: /:collection/:path/
+  statistics:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -296,6 +299,14 @@ defaults:
   - scope:
       path: ""
       type: LLM_projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _statistics
+  - scope:
+      path: ""
+      type: statistics
     values:
       layout: single
       author_profile: true

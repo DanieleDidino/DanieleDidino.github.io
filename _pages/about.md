@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ![Image aligned on the right](/images/3953273590_704e3899d5_m.jpg){: .align-right width="300px"}
-Add here: (1) explain the structure of the website, that is explain that there are different sections (Data Visualization, EDA, Data Collection, Data Modelling, LLM, CV). [add link](https://...).
+I’m Katja, a data scientist and psychologist based in Berlin.. .
 
 Profile
 ======
@@ -20,20 +20,25 @@ Explain here the structure of the website, that is explain that there are differ
 
 Data Visualization
 ------
-*Coming soom ...*
+*Coming soon ...*
 
 EDA
 ------
-*Coming soom ...*
+*Coming soon ...*
 
 Data Collection
 ------
-*Coming soom ...*
+*Coming soon ...*
 
 Data modelling
 ------
-*Coming soom ...*
+*Coming soon ...*
 
 LLM
 ------
-*Coming soom ...*
+*Coming soon ...* [add link](https://...)
+
+Statistics
+------
+*Bayesian hierarchical modeling... coming soon ...* [add link](https://...)
+
