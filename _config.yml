@@ -199,6 +199,9 @@ kramdown:
 
 # Collections
 collections:
+  data_proj:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -230,6 +233,17 @@ collections:
 
 # Defaults
 defaults:
+  # _data_proj
+  - scope:
+      path: ""
+      type: data_proj
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _posts
   - scope:
       path: ""

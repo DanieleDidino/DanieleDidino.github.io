@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Data Science & projects"
+    url: /data_proj/
+  
   - title: "Data Visualization"
     url: /data_viz/
 

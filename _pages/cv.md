@@ -11,16 +11,24 @@ redirect_from:
 
 Download [here](/files/DanieleDidino_Resume.pdf) the pdf version.
 
+**Table of Contents:**
+- [Programming languages](#programming-languages)
+- [Software](#software)
+- [Skills](#skills)
+- [Work experience](#work-experience)
+- [Education](#education)
+- [Languages](#languages)
+- [Publications](#publications)
 
 Programming languages
-======
+------
 * Python
 * SQL
 * R
 
 
 Software
-======
+------
 * Numpy/Pandas/SciPy
 * Matplotlib/Seaborn/Plotly
 * Pytorch/TensorFlow/Keras
@@ -32,7 +40,7 @@ Software
 
 
 Skills
-======
+------
 * Exploratory Data Analysis
 * Data Visualization
 * Regression/Classification
@@ -47,7 +55,7 @@ Skills
 
 
 Work experience
-======
+------
 * 12/2023 - Present │ **Data Scientist** & **Co-Founder** at **Dailogy** (Berlin, Germany; Tbilisi, Georgia)
   * Developed an app to enhance communication within couples using Large Language Models (LLMs).
   * Engineered a framework for an LLM-powered application, implementing API client requests to analyze and process user text to identify dysfunctional communication patterns.
@@ -69,7 +77,7 @@ Work experience
 
 
 Education
-======
+------
 * Data Science Retreat ([link](https://datascienceretreat.com/)), Berlin (Germany), 06/2023 - 09/2023
 * Ph.D. in Cognitive Sciences, University of Trento (Italy), 11/2008 - 10/2011
 * M.sc in Cognitive Science, University of Trento (Italy), 10/2005 - 09/2008
@@ -77,14 +85,14 @@ Education
 
 
 Languages
-======
+------
 * Italian: native speaker
 * English: proficient
 * German: basic knowledge
 
 
 Publications
-======
+------
 See also: [Google Scholar](https://scholar.google.com/citations?user=M3qWuYcAAAAJ&hl=en&oi=ao)
 
 * **Didino, D.**, Brandtner, M., Glaser, M, & Knops, A. (2023). Probing the Dual-Route Model of the SNARC Effect by Orthogonalizing Processing Speed and Depth. *Experimental Psychology*, *2*. doi: 10.1027/1618-3169/a000577
