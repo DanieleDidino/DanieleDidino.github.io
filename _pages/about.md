@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ![Image aligned on the right](/images/3953273590_704e3899d5_m.jpg){: .align-right width="300px"}
-I’m Katja, a data scientist and psychologist based in Berlin.. .
+I’m Daniele, a data scientist and cognitive scientist based in Berlin.
 
 Profile
 ======

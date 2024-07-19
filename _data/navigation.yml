@@ -5,21 +5,12 @@ main:
   
   - title: "Data Visualization"
     url: /data_viz/
-
-  - title: "EDA"
-    url: /eda/
-
-  - title: "Data Modeling"
-    url: /data_modeling/
   
   - title: "LLM"
     url: /LLM_projects/
 
   - title: "Statistics"
     url: /statistics/
-
-  # - title: "Portfolio"
-  #   url: /portfolio/
 
   - title: "CV"
     url: /cv/
