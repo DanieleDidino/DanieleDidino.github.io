@@ -11,24 +11,20 @@ author_profile: true
 
 {% include base_path %}
 
-<h1 align="center">
+<h1 align="left">
   <b>Large Language Models</b> 
-  </h1>
+</h1>
 
 {% for post in site.LLM_projects %}
-  <div align="center">
-    {% include archive-single.html %}
-    <hr style="height:3px; border:none; color:#333; background-color:#333;"> <!-- Add a horizontal line between sections -->
-  </div>
+  {% include archive-single.html %}
+  <hr style="height:3px; border:none; color:#333; background-color:#333;"> <!-- Add a horizontal line between sections -->
 {% endfor %}
 
-<h1 align="center">
+<h1 align="left">
   <b>Data Visualization</b> 
-  </h1>
+</h1>
 
 {% for post in site.data_viz %}
-  <div align="center">
-    {% include archive-single.html %}
-    <hr style="height:3px; border:none; color:#333; background-color:#333;"> <!-- Add a horizontal line between sections -->
-  </div>
+  {% include archive-single.html %}
+  <hr style="height:3px; border:none; color:#333; background-color:#333;"> <!-- Add a horizontal line between sections -->
 {% endfor %}
