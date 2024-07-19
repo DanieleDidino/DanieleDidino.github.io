@@ -1,5 +1,5 @@
 ---
-title: "<div class='center-title'>Chatbot - <i>Agentur für Arbeit</i> <br/></div>" # "Chatbot - <i>Agentur für Arbeit</i> <br/>"
+title: "<div class='center-title'>Chatbot - <i>Agentur für Arbeit</i> <br/></div>"
 excerpt: "Chat with the documents from the <i>Agentur für Arbeit</i> <br/><img src='/images/chatbot_afa_2.png'>"
 collection: LLM_projects
 ---
@@ -11,10 +11,6 @@ collection: LLM_projects
 Chat with the documents from the <i>Agentur für Arbeit</i>
 
 <style>
-
-h1 {text-align: center;}
-p {text-align: center;}
-div {text-align: center;}
 
 * {
   box-sizing: border-box;
