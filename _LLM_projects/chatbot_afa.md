@@ -12,6 +12,8 @@ Chat with the documents from the <i>Agentur für Arbeit</i>
 
 <style>
 
+h1 {text-align: center;}
+p {text-align: center;}
 div {text-align: center;}
 
 * {
