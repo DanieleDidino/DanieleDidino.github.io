@@ -11,7 +11,6 @@ collection: LLM_projects
 Chat with the documents from the <i>Agentur für Arbeit</i>
 
 <style>
-  div {text-align: center;}
   
   * {
     box-sizing: border-box;

@@ -1,12 +1,8 @@
 ---
-title: "<div.a class='center-title'>Videogame Sales (1980-2016)s <br/></div.a>"
+title: "<div class='center-title'>Videogame Sales (1980-2016)s <br/></div>"
 excerpt: "Discover the Evolution of Video Game Sales.<br/><img src='/images/dashboard-videogame_sales.png' style='width:30%; height:auto;'>"
 collection: data_viz
 ---
-
-<style>
-  div.a {text-align: center;}
-</style>
 
 <h1 align="center">
 <a href="https://public.tableau.com/views/GlobalVideogameSales1980-2016/D-GL2_1">
