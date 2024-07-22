@@ -20,20 +20,8 @@ Thank you for your interest in our project. Please be aware that this is still a
 
 Dailogy is a project aimed at developing tools to detect dysfunctional and toxic language in chat conversations and provide suggestions to make the language more respectful and inclusive.
 
-
-
-
-
-Thank you for your interest in my chatbot. Please note that this is only a Proof of Concept system and may contain bugs or unfinished features.
-
-This chatbot uses documents from the *Agentur für Arbeit* as its data source. It responds to queries by employing these documents within a RAG pipeline framework. The chatbot provides not only the answers but also includes source details, such as the title and page, of the documents used as references. On the left column, it is also possible to download the documents used as source. Additionally, on the left column (see "*Select a source file to download*"), you have the option to download the documents that were used as sources.
-
-Please be aware that this is a personal project that uses publicly available documents and is <span style="color:#ad1714;">NOT</span> an official product of the *Agentur für Arbeit*. Be advised that the information provided by the chatbot may not always be accurate. It's recommended to cross-check any critical information with reliable sources before making decisions based on the chatbot's responses.
-
-<p align="center">
-<img src="/images/chatbot_afa_screenshot.png" alt="drawing" width="500"/>
-<br>Chatbot Screenshot
-</p>
+This project includes:
+- Synthetic data
 
 ## Retrieval-Augmented Generation (RAG)
 

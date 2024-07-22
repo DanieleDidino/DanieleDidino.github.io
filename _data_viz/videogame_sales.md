@@ -1,11 +1,11 @@
 ---
-title: "<div class='center-title'>Videogame Sales (1980-2016)s <br/></div>"
+title: "<div.a class='center-title'>Videogame Sales (1980-2016)s <br/></div.a>"
 excerpt: "Discover the Evolution of Video Game Sales.<br/><img src='/images/dashboard-videogame_sales.png' style='width:30%; height:auto;'>"
 collection: data_viz
 ---
 
 <style>
-  div {text-align: center;}
+  div.a {text-align: center;}
 </style>
 
 <h1 align="center">
