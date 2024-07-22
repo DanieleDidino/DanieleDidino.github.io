@@ -5,7 +5,7 @@ collection: data_viz
 ---
 
 <style>
-  div {text-align: center;}
+  title {text-align: center;}
 </style>
 
 <h1 align="center">
