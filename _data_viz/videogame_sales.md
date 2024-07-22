@@ -4,6 +4,10 @@ excerpt: "Discover the Evolution of Video Game Sales.<br/><img src='/images/dash
 collection: data_viz
 ---
 
+<style>
+  div {text-align: center;}
+</style>
+
 <h1 align="center">
 <a href="https://public.tableau.com/views/GlobalVideogameSales1980-2016/D-GL2_1">
   <img src="/images/dashboard-videogame_sales.png" alt="drawing" width="300"/>
