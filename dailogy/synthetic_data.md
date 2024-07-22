@@ -81,10 +81,7 @@ We employ two advanced Large Language Models (LLMs) for generating synthetic dat
 
 2. `dolphin-mistral` from the Ollama Framework:
 
-    - This is a quantized model that runs locally, ensuring privacy and efficiency.
-    - The model is based on the Dolphin 2.2.1 version by [Eric Hartford](https://erichartford.com/), which utilizes the Mistral 0.2 framework released in March 2024.
-    - It is an uncensored model designed to operate with about 4GB of memory, making it accessible for local deployments.
-    - For more information, refer to the [dolphin-mistral model](https://ollama.com/library/dolphin-mistral) and [Dolphin 2.2.1](https://huggingface.co/cognitivecomputations/dolphin-2.2.1-mistral-7b) on Hugging Face.
+    - This is a quantized model that runs locally, ensuring privacy and efficiency. The model is based on the Dolphin 2.2.1 version by [Eric Hartford](https://erichartford.com/), which utilizes the Mistral 0.2 framework released in March 2024. It is an uncensored model designed to operate with about 4GB of memory, making it accessible for local deployments. For more information, refer to the [dolphin-mistral model](https://ollama.com/library/dolphin-mistral) and [Dolphin 2.2.1](https://huggingface.co/cognitivecomputations/dolphin-2.2.1-mistral-7b) on Hugging Face.
 
 By utilizing these two LLMs, we generate comprehensive and varied examples of dysfunctional and toxic language, which are crucial for developing tools to detect and mitigate such language in online communications.
 
