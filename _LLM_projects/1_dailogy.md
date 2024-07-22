@@ -8,7 +8,7 @@ collection: LLM_projects
 <img src="/images/dailogy_logo.jpg" alt="drawing" width="100"/>
 </h1>
 
-A System for Detecting and Improving Dysfunctional Language
+<p align="center">A System for Detecting and Improving Dysfunctional Language</p>
 
 ## Description
 
