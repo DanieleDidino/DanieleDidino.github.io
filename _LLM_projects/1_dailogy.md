@@ -10,10 +10,6 @@ collection: LLM_projects
 
 A System for Detecting and Improving Dysfunctional Language
 
-<style>
-  div {text-align: center;}
-</style>
-
 ## Description
 
 Thank you for your interest in our project. Please be aware that this is still a prototype and may contain bugs or unfinished features.
