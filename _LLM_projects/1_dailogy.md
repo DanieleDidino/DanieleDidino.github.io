@@ -22,7 +22,7 @@ This project includes:
 
 ## Synthetic data generation
 
-[Here](/dailogy/dailogy_synthetic_data/) 
+[Here](/dailogy/synthetic_data/) 
 
 ## App
 
