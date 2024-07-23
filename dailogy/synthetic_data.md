@@ -1,10 +1,10 @@
-<h1 align="center">Dailogy - Synthetic Data</h1>
-
-<p align="center">A System for Detecting and Improving Dysfunctional Language</p>
-
 <h1 align="center">
   <img src="/images/dailogy_logo.jpg" alt="drawing" width="100"/>
 </h1>
+
+<h1 align="center">Dailogy - Synthetic Data</h1>
+
+<p align="center">A System for Detecting and Improving Dysfunctional Language</p>
 
 Thank you for your interest in our project. Please note that this is still a prototype and may contain bugs or unfinished features.
 
