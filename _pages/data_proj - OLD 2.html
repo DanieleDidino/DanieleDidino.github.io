@@ -11,16 +11,18 @@ author_profile: true
 <!-- author_profile: true             -->
 <!-- ---                              -->
 
+<style>
+  div {text-align: center;}
+  h1 {text-align: center;}
+</style>
+
 {% include base_path %}
 
-<hr style="height:3px; border:none; color:#333; background-color:#333;"> <!-- Add a horizontal line between sections -->
+<!-- <hr style="height:3px; border:none; color:#333; background-color:#333;"> --> <!-- Add a horizontal line between sections -->
 
 <h1 align="left">
   <br>Large Language Models</br> 
 </h1>
-
-[Here](/dailogy/synthetic_data/) 
-<a href="/dailogy/synthetic_data/">Dailogy App</a>
 
 {% for post in site.LLM_projects %}
   {% include archive-single.html %}
