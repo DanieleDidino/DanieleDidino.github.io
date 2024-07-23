@@ -2,6 +2,10 @@
 
 <p align="center">A System for Detecting and Improving Dysfunctional Language</p>
 
+<h1 align="center">
+  <img src="/images/dailogy_logo.jpg" alt="drawing" width="100"/>
+</h1>
+
 Thank you for your interest in our project. Please note that this is still a prototype and may contain bugs or unfinished features.
 
 This software is part of Dailogy, a project aimed at developing tools to detect dysfunctional and toxic language in chat conversations and provide suggestions to make the language more respectful and inclusive.
