@@ -11,6 +11,10 @@ author_profile: true
 <!-- author_profile: true             -->
 <!-- ---                              -->
 
+<style>
+  h1 {text-align: center;}
+</style>
+
 {% include base_path %}
 
 <hr style="height:3px; border:none; color:#333; background-color:#333;"> <!-- Add a horizontal line between sections -->
@@ -46,22 +50,19 @@ Chat with the documents from the <i>Agentur für Arbeit.</i>
 <hr style="height:3px; border:none; color:#333; background-color:#333;"> <!-- Add a horizontal line between sections -->
 
 <h1 align="left">
-  <br>Data Visualization</br> 
+  <br>Data Visualization</br>
 </h1>
 
 {% for post in site.data_viz %}
   {% include archive-single.html %}
-  <!-- <hr style="height:3px; border:none; color:#333; background-color:#333;"> --> <!-- Add a horizontal line between sections -->
 {% endfor %}
-
-
 
 <!-- Videogame Sales (1980-2016) -->
 
 <h2><a href="../data_viz/1_videogame_sales/">Videogame Sales (1980-2016)</a></h2>
 
 <h1 align="left">
-  <img src="/images/dashboard-videogame_sales.png" alt="drawing" width="100"/>
+  <img src="/images/dashboard-videogame_sales.png" alt="drawing" width="300"/>
 </h1>
 
 Discover the Evolution of Video Game Sales.<br/>
@@ -71,7 +72,7 @@ Discover the Evolution of Video Game Sales.<br/>
 <h2><a href="../data_viz/2_airbnb_europe/">Airbnb Prices in European Cities</i></a></h2>
 
 <h1 align="left">
-  <img src="/images/dashboard-airbnb.png" alt="drawing" width="200"/>
+  <img src="/images/dashboard-airbnb.png" alt="drawing" width="300"/>
 </h1>
 
 Dive into an interactive Tableau Dashboard to explore pricing information 
