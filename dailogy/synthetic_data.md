@@ -8,7 +8,7 @@
 
 Thank you for your interest in our project. Please note that this is still a prototype and may contain bugs or unfinished features.
 
-This software is part of Dailogy, a project aimed at developing tools to detect dysfunctional and toxic language in chat conversations and provide suggestions to make the language more respectful and inclusive.
+This module is part of Dailogy, a project aimed at developing tools to detect dysfunctional and toxic language in chat conversations and provide suggestions to make the language more respectful and inclusive.
 
 Here is the GitHub repository:
 
@@ -76,7 +76,7 @@ Finally, we generate embeddings for the dysfunctional text using `text-embedding
 
 Once we create the SQL database with dysfunctional text, the corresponding functional version, and the embedding of the dysfunctional text, we can use it to generate **dynamic few-shot prompts** from the user's dysfunctional text. The procedure is:
 1. The input text is embedded using the `text-embedding-3-small` model (the same model used to embed the synthetic data).
-2. Using cosine similarity, we find and retrieve from the database the examples (default = 5) of dysfunctional language most semantically closest to the user text.
+2. Using cosine similarity, we find and retrieve from the database the examples of dysfunctional language (default = 5) that are most semantically similar to the user's text.
 3. The retrieved closest examples of dysfunctional language, and their corresponding functional versions, are used as examples in the prompt to generate pairs of dysfunctional-functional language that will better explain to the LLM the task we want to achieve.
 
 ## Large Language Models
@@ -93,7 +93,7 @@ By utilizing these two LLMs, we generate comprehensive and varied examples of dy
 
 See GitHub repository
 
-<a href="https://github.com/DanieleDidino/dailogy_synthetic_data"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/DanieleDidino/dailogy_synthetic_data?tab=readme-ov-file#installation"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 ## Usage
 
