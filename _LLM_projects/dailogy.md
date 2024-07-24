@@ -16,14 +16,8 @@ Thank you for your interest in our project. Please be aware that this is still a
 
 Dailogy is a project aimed at developing tools to detect dysfunctional and toxic language in chat conversations and provide suggestions to make the language more respectful and inclusive.
 
-This project includes:
-- Synthetic data generation
-- An app to transform dysfunctional language into functional language
+The project includes several modules, each dedicated to specific aspects of our overall goal:
 
-## Synthetic data generation
+1) **App Development Module**: This key module focuses on developing an app designed to transform dysfunctional and toxic language into more respectful and inclusive communication. Our current focus is particularly on interactions between couples or ex-couples who need to communicate regularly. By creating tools to detect and mitigate harmful language, we aim to foster more respectful and inclusive conversations. [Read the full story](/dailogy/synthetic_data/).
 
-[Here](/dailogy/synthetic_data/) 
-
-## App
-
-
+2) **Synthetic Data Generation Module**: This module is focused on generating synthetic data to model dysfunctional and toxic language in couple communications. Due to the private nature of couple interactions, finding real examples of toxic language is challenging. Therefore, we generate synthetic examples to use in our Dailogy app, which improves large language models' ability to convert harmful language into respectful dialogue. Our synthetic data includes realistic examples of various toxic behaviors, such as insults, threats, and manipulation, across different contexts. [Read the full story](/dailogy/synthetic_data/).
