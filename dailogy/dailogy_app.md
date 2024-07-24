@@ -44,12 +44,12 @@ How we implemented it:
    - The **cosine similarity** between two vectors A and B is calculated as:
 
      $$
-     \text{cosine\_similarity}(A,B) = \frac{A \cdot B}{\lVert A \rVert \lVert B \rVert}
+     \text{cosine}\_\text{similarity}(A,B) = \frac{A \cdot B}{\lVert A \rVert \lVert B \rVert}
      $$
 
    - Where:
-     - $A \cdot B$ is the dot product of vectors $A$ and $B$.
-     - $\lVert A \rVert$ and $\lVert B \rVert$ are the Euclidean norms of vectors $A$ and $B$.
+     - \\(A \cdot B\\) is the dot product of vectors \\(A\\) and \\(B\\).
+     - \\(\lVert A \rVert\\) and \\(\lVert B \rVert\\) are the Euclidean norms of vectors \\(A\\) and \\(B\\).
 
 4. **Prompt construction**: The selected examples are then incorporated into the prompt, along with the input query.
 5. **Response generation**: The model generates a response based on the dynamic few-shot prompt, leveraging the relevant examples to produce a more accurate, contextually appropriate, and human-like output.
