@@ -21,7 +21,7 @@ repository               : "DanieleDidino/DanieleDidino.github.io" # "academicpa
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_2.png"
   name             : "Daniele Didino"
   pronouns         : "he/his"  
   bio              : "Data Analyst & Data Scientist | Ex Cognitive Scientist"
