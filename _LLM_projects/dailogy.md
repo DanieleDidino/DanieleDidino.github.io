@@ -34,7 +34,7 @@ collection: LLM_projects
 Team Members
 
 <body>
-<div class="row">
+<div class="row" style="margin-top:5px; margin-bottom:10px;">
   <div class="column" style="margin-bottom:10px;">
     <h2 style="font-size:20px">Nino Lomidze</h2>
     <p>
