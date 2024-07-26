@@ -20,6 +20,7 @@ Download [here](/files/DanieleDidino_Resume.pdf) the pdf version.
 - [Languages](#languages)
 - [Publications](#publications)
 
+
 Programming languages
 ------
 * Python
@@ -29,14 +30,14 @@ Programming languages
 
 Software
 ------
-* Numpy/Pandas/SciPy
-* Matplotlib/Seaborn/Plotly
-* Pytorch/TensorFlow/Keras
-* Scikit-Learn/ XGBoost
+* Numpy / Pandas / SciPy
+* Matplotlib / Seaborn / Plotly
+* Pytorch / TensorFlow / Keras
+* Scikit-Learn / XGBoost
 * LlamaIndex
 * Transformers (Hugging Face)
-* Git/GitHub
-* FastAPI
+* Git / GitHub
+* FastAPI / Weights & Biases
 
 
 Skills
