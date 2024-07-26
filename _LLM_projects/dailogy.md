@@ -38,15 +38,15 @@ collection: LLM_projects
   <div class="column">
     <h2 style="font-size:20px">Nino Lomidze</h2>
     <p>
-        <img src="/images/Nino.jpg" alt="drawing" width="100"/><br><br>
-        <a href="https://www.linkedin.com/in/nino-lomidze-1a11571b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><br><br>
+        <img src="/images/Nino.jpg" alt="drawing" width="150"/><br>
+        <a href="https://www.linkedin.com/in/nino-lomidze-1a11571b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     </p>
   </div>
   <div class="column">
     <h2 style="font-size:20px">Malkhaz Pertaia</h2>
     <p>
-        <img src="/images/Malkhaz.jpg" alt="drawing" width="100"/><br><br>
-        <a href="https://www.linkedin.com/in/malkhazpertaia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><br><br>
+        <img src="/images/Malkhaz.jpg" alt="drawing" width="150"/><br>
+        <a href="https://www.linkedin.com/in/malkhazpertaia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     </p>
   </div>
 </div>
