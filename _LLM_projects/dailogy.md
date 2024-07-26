@@ -52,9 +52,6 @@ collection: LLM_projects
 </div>
 </body>
 
-
-
-
 ## Description
 
 Thank you for your interest in our project. Please be aware that this is still a prototype and may contain bugs or unfinished features.
