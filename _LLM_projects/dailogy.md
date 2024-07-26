@@ -10,6 +10,51 @@ collection: LLM_projects
 
 <p align="center">A System for Detecting and Improving Dysfunctional Language</p>
 
+<style>
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  /* Create two equal columns that floats next to each other */
+  .column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+</style>
+
+## Other members of the project
+
+<body>
+<div class="row">
+  <div class="column">
+    <h2 style="font-size:20px">Nino Lomidze</h2>
+    <p>
+        <img src="/images/Nino.jpg" alt="drawing" width="100"/><br><br>
+        <a href="https://www.linkedin.com/in/nino-lomidze-1a11571b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><br><br>
+    </p>
+  </div>
+  <div class="column">
+    <h2 style="font-size:20px">Malkhaz Pertaia</h2>
+    <p>
+        <img src="/images/Malkhaz.jpg" alt="drawing" width="100"/><br><br>
+        <a href="https://www.linkedin.com/in/malkhazpertaia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><br><br>
+    </p>
+  </div>
+</div>
+</body>
+
+
+
+
 ## Description
 
 Thank you for your interest in our project. Please be aware that this is still a prototype and may contain bugs or unfinished features.
