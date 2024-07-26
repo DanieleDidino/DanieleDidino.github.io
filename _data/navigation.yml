@@ -3,11 +3,11 @@ main:
   - title: "Data Science & Projects"
     url: /data_proj/
   
-  - title: "Data Visualization"
-    url: /data_viz/
+  # - title: "Data Visualization"
+  #   url: /data_viz/
   
-  - title: "LLM"
-    url: /LLM_projects/
+  # - title: "LLM"
+  #   url: /LLM_projects/
 
   - title: "Statistics & Research"
     url: /statistics/
