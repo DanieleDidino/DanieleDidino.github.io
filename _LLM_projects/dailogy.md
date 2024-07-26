@@ -8,7 +8,7 @@ collection: LLM_projects
 <img src="/images/dailogy_logo.jpg" alt="drawing" width="100"/>
 </h1>
 
-<p align="center">A System for Detecting and Improving Dysfunctional Language</p>
+<p align="center">A System for Detecting and Improving Dysfunctional and Toxic Language</p>
 
 <style>
   
@@ -37,15 +37,15 @@ collection: LLM_projects
   <div class="column" style="margin-top:5px; margin-bottom:5px;">
     <b style="font-size:20px">Nino Lomidze</b>
     <p>
-        <img src="/images/Nino.jpg" alt="drawing" width="140"/><br>
-        <a href="https://www.linkedin.com/in/nino-lomidze-1a11571b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <img src="/images/Malkhaz.jpg" alt="drawing" width="150"/><br>
+        <a href="https://www.linkedin.com/in/malkhazpertaia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     </p>
   </div>
   <div class="column" style="margin-top:5px; margin-bottom:5px;">
     <b style="font-size:20px">Malkhaz Pertaia</b>
     <p>
-        <img src="/images/Malkhaz.jpg" alt="drawing" width="150"/><br>
-        <a href="https://www.linkedin.com/in/malkhazpertaia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <img src="/images/Nino.jpg" alt="drawing" width="130"/><br>
+        <a href="https://www.linkedin.com/in/nino-lomidze-1a11571b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     </p>
   </div>
 </div>
