@@ -31,21 +31,18 @@ collection: LLM_projects
   }
 </style>
 
-
-
 <body>
 <div class="row" style="margin-top:5px; margin-bottom:5px;">
-  Team Members
-  <p align="left">Team Members</p>
-  <div class="column" style="margin-bottom:5px;">
-    <h2 style="font-size:20px">Nino Lomidze</h2>
+  <h2 style="font-size:20px">Team Members</h2>
+  <div class="column" style="margin-top:5px; margin-bottom:5px;">
+    <b style="font-size:20px">Nino Lomidze</b>
     <p>
-        <img src="/images/Nino.jpg" alt="drawing" width="150"/><br><br>
+        <img src="/images/Nino.jpg" alt="drawing" width="140"/><br>
         <a href="https://www.linkedin.com/in/nino-lomidze-1a11571b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     </p>
   </div>
-  <div class="column" style="margin-bottom:5px;">
-    <h2 style="font-size:20px">Malkhaz Pertaia</h2>
+  <div class="column" style="margin-top:5px; margin-bottom:5px;">
+    <b style="font-size:20px">Malkhaz Pertaia</b>
     <p>
         <img src="/images/Malkhaz.jpg" alt="drawing" width="150"/><br>
         <a href="https://www.linkedin.com/in/malkhazpertaia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
