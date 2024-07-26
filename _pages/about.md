@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Image aligned on the right](/images/3953273590_704e3899d5_m.jpg){: .align-right width="300px"}
+![Image aligned on the right](/images/work_photo.jpg){: .align-right width="200px"}
 
 I am a Data Scientist, holding a Ph.D. in Cognitive Sciences. Proficient in Python, R, and SQL, with 10+ years of experience in data analysis and machine learning. I bring a profound understanding of the latest machine learning algorithms, coupled with a deep motivation to apply cutting-edge technologies in real-world scenarios. I enjoy dealing with complex problems and finding solutions. I have significant experience in designing and leading research projects from beginning to completion.
 
