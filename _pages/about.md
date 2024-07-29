@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="float: right; margin-left: 20px;">
-    <img src="/images/img_about_page.jpg" alt="Image About Page" width="300">
+    <img src="/images/img_about_page_3.jpg" alt="Image About Page" width="300">
 </div>
 
 I am a Data Scientist with a Ph.D. in Cognitive Sciences, proficient in **Python**, **R**, and **SQL**, and have over 
@@ -20,4 +20,4 @@ My passion for data analysis is evident through my ongoing collaboration with re
 
 I have collaborated with diverse, cross-functional teams, enhancing my communication skills and my ability to explain technical topics to general audiences. My research and mentoring experience equips me to effectively guide colleagues through complex data analysis and results.
 
-My commitment to continuous learning and my technical and interpersonal skills enable me to deliver comprehensive data science solutions. Explore my [portfolio](/_data_proj/) of data projects from my education, personal ventures, and work at Dailogy. *More updates are coming soon!*
+My commitment to continuous learning and my technical and interpersonal skills enable me to deliver comprehensive data science solutions. Explore my [portfolio](/data_proj/) of data projects from my education, personal ventures, and work at Dailogy. *More updates are coming soon!*
