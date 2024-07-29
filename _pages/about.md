@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="float: right; margin-left: 20px;">
-    <img src="/images/3899d5_m.jpg" alt="Home Office" width="200">
+    <img src="/images/img_about_page.jpg" alt="Image About Page" width="200">
 </div>
 
 I am a Data Scientist with a Ph.D. in Cognitive Sciences, proficient in **Python**, **R**, and **SQL**, and have over 

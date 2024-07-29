@@ -4,4 +4,4 @@ excerpt: "Test for creating a new tab<br/><img src='/images/image-alignment-150x
 collection: project1
 ---
 
-This is a test to create a new tab in the top menu!
+*Coming soon!*
