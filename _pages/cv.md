@@ -12,23 +12,23 @@ redirect_from:
 Download [here](/files/DanieleDidino_Resume.pdf) the pdf version.
 
 **Table of Contents:**
-- [Programming languages :computer:](#programming-languages-computer)
-- [Software :hammer\_and\_wrench:](#software-hammer_and_wrench)
-- [Analysis \& Statistics :bar\_chart:](#analysis--statistics-bar_chart)
-- [Work experience :man\_technologist:](#work-experience-man_technologist)
-- [Education :man\_student:](#education-man_student)
-- [Languages :speech\_balloon:](#languages-speech_balloon)
-- [Publications :books:](#publications-books)
+- [Programming languages](#programming-languages)
+- [Software](#software)
+- [Analysis \& Statistics](#analysis--statistics)
+- [Work experience](#work-experience)
+- [Education](#education)
+- [Languages](#languages)
+- [Publications](#publications)
 
 
-Programming languages :computer: 
+Programming languages
 ------
 * Python
 * SQL
 * R
 
 
-Software :hammer_and_wrench:
+Software
 ------
 * Data Manipulation and Analysis: Numpy / Pandas / SciPy
 * Data Visualization: Matplotlib / Seaborn / Plotly / Tableau
@@ -38,7 +38,7 @@ Software :hammer_and_wrench:
 * Version Control: Git / GitHub
 * Development and Deployment: FastAPI / Weights & Biases
 
-Analysis & Statistics :bar_chart:
+Analysis & Statistics
 ------
 * Exploratory Data Analysis
 * Data Visualization
@@ -52,7 +52,7 @@ Analysis & Statistics :bar_chart:
 * Large Language Models
 * Unit testing
 
-Work experience :man_technologist:
+Work experience
 ------
 * 12/2023 - Present │ **Data Scientist** & **Co-Founder** at **Dailogy** (Berlin, Germany; Tbilisi, Georgia)
   * Developed an app to enhance communication within couples using Large Language Models (LLMs).
@@ -74,7 +74,7 @@ Work experience :man_technologist:
   * Mentored several Ph.D. students in their research projects, guiding them in advanced data analysis techniques.
 
 
-Education :man_student:
+Education
 ------
 * Data Science Retreat ([link](https://datascienceretreat.com/)), Berlin (Germany), 06/2023 - 09/2023
 * Ph.D. in Cognitive Sciences, University of Trento (Italy), 11/2008 - 10/2011
@@ -82,14 +82,14 @@ Education :man_student:
 * B.sc in Philosophy, University of Genova (Italy), 09/2000 - 10/2005
 
 
-Languages :speech_balloon:
+Languages
 ------
 * Italian: native speaker
 * English: proficient
 * German: basic knowledge
 
 
-Publications :books:
+Publications
 ------
 See also: [Google Scholar](https://scholar.google.com/citations?user=M3qWuYcAAAAJ&hl=en&oi=ao)
 
