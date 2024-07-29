@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="float: right; margin-left: 20px;">
-    <img src="/images/work_photo.jpg" alt="Home Office" width="200">
+    <img src="/images/3899d5_m.jpg" alt="Home Office" width="200">
 </div>
 
 I am a Data Scientist, holding a Ph.D. in Cognitive Sciences. Proficient in Python, R, and SQL, with 10+ years of experience in data analysis and machine learning. I bring a profound understanding of the latest machine learning algorithms, coupled with a deep motivation to apply cutting-edge technologies in real-world scenarios. I enjoy dealing with complex problems and finding solutions. I have significant experience in designing and leading research projects from beginning to completion.
