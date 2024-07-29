@@ -1,6 +1,6 @@
 ---
-title: "Bayesian hierarchical modeling"
-excerpt: "Test for creating a new tab<br/><img src='/images/image-alignment-150x150.jpg'>"
+title: "Bayesian modeling"
+excerpt: "Regression with Bayesian models<br/><img src='/images/BA_1.png'>"
 collection: project1
 ---
 
