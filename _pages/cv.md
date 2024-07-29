@@ -12,35 +12,33 @@ redirect_from:
 Download [here](/files/DanieleDidino_Resume.pdf) the pdf version.
 
 **Table of Contents:**
-- [Programming languages](#programming-languages)
-- [Software](#software)
-- [Skills](#skills)
-- [Work experience](#work-experience)
-- [Education](#education)
-- [Languages](#languages)
-- [Publications](#publications)
+- [Programming languages :computer:](#programming-languages-computer)
+- [Software :hammer\_and\_wrench:](#software-hammer_and_wrench)
+- [Analysis \& Statistics :bar\_chart:](#analysis--statistics-bar_chart)
+- [Work experience :man\_technologist:](#work-experience-man_technologist)
+- [Education :man\_student:](#education-man_student)
+- [Languages :speech\_balloon:](#languages-speech_balloon)
+- [Publications :books:](#publications-books)
 
 
-Programming languages
+Programming languages :computer: 
 ------
 * Python
 * SQL
 * R
 
 
-Software
+Software :hammer_and_wrench:
 ------
-* Numpy / Pandas / SciPy
-* Matplotlib / Seaborn / Plotly
-* Pytorch / TensorFlow / Keras
-* Scikit-Learn / XGBoost
-* LlamaIndex
-* Transformers (Hugging Face)
-* Git / GitHub
-* FastAPI / Weights & Biases
+* Data Manipulation and Analysis: Numpy / Pandas / SciPy
+* Data Visualization: Matplotlib / Seaborn / Plotly / Tableau
+* ML Frameworks: Scikit-Learn / XGBoost
+* DL Frameworks: Pytorch / TensorFlow / Keras
+* NLP: LlamaIndex / Transformers (Hugging Face)
+* Version Control: Git / GitHub
+* Development and Deployment: FastAPI / Weights & Biases
 
-
-Skills
+Analysis & Statistics :bar_chart:
 ------
 * Exploratory Data Analysis
 * Data Visualization
@@ -54,8 +52,7 @@ Skills
 * Large Language Models
 * Unit testing
 
-
-Work experience
+Work experience :man_technologist:
 ------
 * 12/2023 - Present │ **Data Scientist** & **Co-Founder** at **Dailogy** (Berlin, Germany; Tbilisi, Georgia)
   * Developed an app to enhance communication within couples using Large Language Models (LLMs).
@@ -77,7 +74,7 @@ Work experience
   * Mentored several Ph.D. students in their research projects, guiding them in advanced data analysis techniques.
 
 
-Education
+Education :man_student:
 ------
 * Data Science Retreat ([link](https://datascienceretreat.com/)), Berlin (Germany), 06/2023 - 09/2023
 * Ph.D. in Cognitive Sciences, University of Trento (Italy), 11/2008 - 10/2011
@@ -85,14 +82,14 @@ Education
 * B.sc in Philosophy, University of Genova (Italy), 09/2000 - 10/2005
 
 
-Languages
+Languages :speech_balloon:
 ------
 * Italian: native speaker
 * English: proficient
 * German: basic knowledge
 
 
-Publications
+Publications :books:
 ------
 See also: [Google Scholar](https://scholar.google.com/citations?user=M3qWuYcAAAAJ&hl=en&oi=ao)
 
