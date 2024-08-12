@@ -30,13 +30,13 @@ Programming languages
 
 Software
 ------
-* Data Manipulation and Analysis: Numpy / Pandas / SciPy
-* Data Visualization: Matplotlib / Seaborn / Plotly / Tableau
-* ML Frameworks: Scikit-Learn / XGBoost
-* DL Frameworks: Pytorch / TensorFlow / Keras
-* NLP: LlamaIndex / Transformers (Hugging Face)
-* Version Control: Git / GitHub
-* Development and Deployment: FastAPI / Weights & Biases
+* **Data Manipulation and Analysis**: Numpy / Pandas / SciPy
+* **Data Visualization**: Matplotlib / Seaborn / Plotly / Tableau
+* **ML Frameworks**: Scikit-Learn / XGBoost
+* **DL Frameworks**: Pytorch / TensorFlow / Keras
+* **NLP**: LlamaIndex / Transformers (Hugging Face)
+* **Version Control**: Git / GitHub
+* **Development and Deployment**: FastAPI / Weights & Biases / Docker
 
 Analysis & Statistics
 ------
@@ -55,21 +55,22 @@ Analysis & Statistics
 Work experience
 ------
 * 12/2023 - Present │ **Data Scientist** & **Co-Founder** at **Dailogy** (Berlin, Germany; Tbilisi, Georgia)
-  * Developed an app to enhance communication within couples using Large Language Models (LLMs).
-  * Engineered a framework for an LLM-powered application, implementing API client requests to analyze and process user text to identify dysfunctional communication patterns.
-  * Created algorithms to evaluate and transform dysfunctional communication into functional dialogue, improving interpersonal communication effectiveness.
-  * Refined generated language to mirror everyday communication, ensuring outputs were natural and less artificial.
+  * Deployed an API endpoint to enhance LLM-generated output, optimizing the text processing pipeline
+  * Developed minimum viable products by quickly testing and implementing solutions, securing funding and forming successful partnerships
+  * Researching and implementing NLP tools and LLM solutions
+  * Integrated cutting-edge AI advancements, ensuring the system remained up-to-date
+  * Tested open-source LLMs, increasing project independence and reducing reliance on third-party software
 * 06/2016 - 04/2023 │ **Research Group Leader** at **Humboldt-Universität zu Berlin** (Berlin, Germany)
-  * Led the development and implementation of research projects in mathematical cognition, securing DFG grants totaling over €550,000.
-  * Managed project timelines and budgets, ensuring alignment with objectives.
-  * Conducted in-depth data analysis and developed statistical models to tackle complex datasets across various research projects.
-  * Developed and presented compelling data visualizations and reports, effectively communicating complex information to both technical and non-technical audiences.
-* 10/2014 - 04/2016 │ **Postdoctoral Researcher** at **Tomsk Polytechnic University** (Tomsk, Russia)
-  * Collaborated on joint projects between the University of Trento (Italy) and Tomsk Polytechnic University (Russia).
-  * Worked in a cross-functional and multicultural team, bridging the gap between economists, computer scientists, and web designers.
-  * Designed and evaluated web-based tools for older adults, including a tablet-based virtual gym application.
-  * Managed project design and implementation, consistently meeting all deadlines and requirements.
-* 10/2012 - 02/2014  │ **Postdoctoral Researcher** at **Burapha University** (Saen Suk, Chonburi, Thailand)
+  * Led two high-impact research projects, focusing on management and research, and secured over €550,000 in funding
+  * Implemented advanced models using Python and R, analyzing structured and unstructured data
+  * Created and optimized data pipelines for preprocessing, feature extraction, and analysis
+  * Presented compelling data visualizations and reports, effectively communicating insights to both technical and non-technical audiences
+* 10/2014 - 04/2016 │ **Researcher** at **Tomsk Polytechnic University** (Tomsk, Russia)
+  * Managed a cross-functional, multicultural team, bridging the gap between economists, computer scientists, and web designers
+  * Defined analytical approaches to ensure robust data collection, preprocessing, and analysis, leading to successful project outcomes
+  * Tested technologies to enhance well-being, including a tablet-based virtual gym application to mitigate age-related decline
+  * Coordinated collaborative projects with universities in Italy and Russia in partnership with founding institutes
+* 10/2012 - 02/2014  │ **Researcher** at **Burapha University** (Saen Suk, Chonburi, Thailand)
   * Instructed university-level courses on data analysis, focusing on data handling and inferential statistics (hypothesis testing).
   * Mentored several Ph.D. students in their research projects, guiding them in advanced data analysis techniques.
 
