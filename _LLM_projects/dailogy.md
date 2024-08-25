@@ -53,7 +53,7 @@ collection: LLM_projects
 
 ## Description
 
-Thank you for your interest in our project. Please be aware that this is still a prototype and may contain bugs or unfinished features.
+Thank you for your interest in our project.
 
 Dailogy is a project aimed at developing tools to detect dysfunctional and toxic language in chat conversations and provide suggestions to make the language more respectful and inclusive.
 
