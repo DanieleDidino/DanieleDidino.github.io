@@ -29,7 +29,7 @@ This repository includes an app developed to transform dysfunctional and toxic l
 
 ## Description
 
-We are still prototyping and developing the app, and exploring new opportunities (e.g., applying small language models to our goals, such as [SmolLM](https://huggingface.co/HuggingFaceTB/SmolLM-1.7B)). Currently, we have developed an API using [FastAPI](https://fastapi.tiangolo.com/) and deployed it on [Heroku](https://www.heroku.com/). To transform text into functional and respectful language, we employ `gpt-3.5-turbo`, a Large Language Model (LLM) accessed through the OpenAI API. We are testing the efficacy of dynamic few-shot prompting.
+We are still prototyping and developing the app, and exploring new opportunities (e.g., applying small language models to our goals, such as [SmolLM](https://huggingface.co/HuggingFaceTB/SmolLM-1.7B)). Currently, we have developed an API using [FastAPI](https://fastapi.tiangolo.com/) and deployed it on [Heroku](https://www.heroku.com/). To transform text into functional and respectful language, we employ `gpt-4o`, a Large Language Model (LLM) accessed through the OpenAI API. We are testing the efficacy of dynamic few-shot prompting.
 
 ## Dynamic few-shot prompting
 
