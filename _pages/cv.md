@@ -30,28 +30,28 @@ Programming languages
 
 Software
 ------
-- **Data Visualization**: Matplotlib | Seaborn | Plotly
-- **Data Wrangling**: Numpy | Pandas | SciPy
-- **Machine Learning**: Scikit-Learn | XGBoost
-- **Neural Network**: Pytorch | TensorFlow | Keras
+- **Data Visualization**: Matplotlib / Seaborn / Plotly
+- **Data Wrangling**: Numpy / Pandas / SciPy
+- **Machine Learning**: Scikit-Learn / XGBoost
+- **Neural Network**: Pytorch / TensorFlow / Keras
 - **Pretrained models**: Transformers (Hugging Face)
-- **LLM Frameworks**: LlamaIndex | LangChain
-- **Version Control**: Git | GitHub 
-- **Development & Deployment**: FastAPI | Weights & Biases | Docker
+- **LLM Frameworks**: LlamaIndex / LangChain
+- **Version Control**: Git / GitHub 
+- **Development & Deployment**: FastAPI / Weights & Biases / Docker
 - **Dashboards:** Tableau
 
 
 Technical Skills & Statistics
 ------
-* Exploratory Data Analysis | Data Visualization
-* Regression | Classification | Decision Trees
+* Exploratory Data Analysis / Data Visualization
+* Regression / Classification / Decision Trees
 * Neural Networks
 * Structured & Unstructured Data
-* Supervised & Unsupervised Learning | Hyperparameters Tuning
-* Embeddings | Vector Databases
+* Supervised & Unsupervised Learning / Hyperparameters Tuning
+* Embeddings / Vector Databases
 * Large Language Models
 * Statistical Modeling
-* Bayesian Statistics | Hypothesis Testing
+* Bayesian Statistics / Hypothesis Testing
 * Unit testing
 
 
