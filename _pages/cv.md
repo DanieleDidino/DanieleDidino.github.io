@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download [here](/files/DanieleDidino_Resume.pdf) the pdf version.
+Download [here](/files/Daniele Didino - Resume.pdf) the pdf version.
 
 **Table of Contents:**
 - [Programming languages](#programming-languages)
