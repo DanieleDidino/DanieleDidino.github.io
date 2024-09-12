@@ -14,7 +14,7 @@ Download [here](/files/DanieleDidino_Resume.pdf) the pdf version.
 **Table of Contents:**
 - [Programming languages](#programming-languages)
 - [Software](#software)
-- [Analysis \& Statistics](#analysis--statistics)
+- [Technical Skills \& Statistics](#technical-skills--statistics)
 - [Work experience](#work-experience)
 - [Education](#education)
 - [Languages](#languages)
@@ -30,27 +30,30 @@ Programming languages
 
 Software
 ------
-* **Data Manipulation and Analysis**: Numpy / Pandas / SciPy
-* **Data Visualization**: Matplotlib / Seaborn / Plotly / Tableau
-* **ML Frameworks**: Scikit-Learn / XGBoost
-* **DL Frameworks**: Pytorch / TensorFlow / Keras
-* **NLP**: LlamaIndex / Transformers (Hugging Face)
-* **Version Control**: Git / GitHub
-* **Development and Deployment**: FastAPI / Weights & Biases / Docker
+- **Data Visualization**: Matplotlib | Seaborn | Plotly
+- **Data Wrangling**: Numpy | Pandas | SciPy
+- **Machine Learning**: Scikit-Learn | XGBoost
+- **Neural Network**: Pytorch | TensorFlow | Keras
+- **Pretrained models**: Transformers (Hugging Face)
+- **LLM Frameworks**: LlamaIndex | LangChain
+- **Version Control**: Git | GitHub 
+- **Development & Deployment**: FastAPI | Weights & Biases | Docker
+- **Dashboards:** Tableau
 
-Analysis & Statistics
+
+Technical Skills & Statistics
 ------
-* Exploratory Data Analysis
-* Data Visualization
-* Regression/Classification
-* Decision Trees
-* Supervised & Unsupervised Learning
+* Exploratory Data Analysis | Data Visualization
+* Regression | Classification | Decision Trees
 * Neural Networks
-* Hyperparameters Tuning
-* Bayesian Statistic/Hypothesis Testing
-* Embeddings/Vector Databases
+* Structured & Unstructured Data
+* Supervised & Unsupervised Learning | Hyperparameters Tuning
+* Embeddings | Vector Databases
 * Large Language Models
+* Statistical Modeling
+* Bayesian Statistics | Hypothesis Testing
 * Unit testing
+
 
 Work experience
 ------
