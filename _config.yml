@@ -146,6 +146,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - head.html # ADDED
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

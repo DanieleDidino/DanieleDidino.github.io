@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<head>
-<link rel="icon" href="/assets/favicon.jpg" type="image/x-icon">
-</head>
+<!-- <head> -->
+<!-- <link rel="icon" href="/assets/favicon.jpg" type="image/x-icon"> -->
+<!-- </head> -->
 
 <div style="float: right; margin-left: 20px;">
     <img src="/images/img_about_page_3.jpg" alt="Image About Page" width="300">
