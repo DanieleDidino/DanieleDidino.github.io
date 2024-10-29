@@ -4,6 +4,10 @@ excerpt: "Dive into an interactive Tableau Dashboard to explore pricing informat
 collection: data_viz
 ---
 
+<head>
+  <link rel="icon" href="/assets/favicon.jpg" type="image/x-icon">
+</head>
+
 <h1 align="center">
 <a href="https://public.tableau.com/views/AirbnbEuropeanCities/Dashboard12">
   <img src="/images/dashboard-airbnb.png" alt="drawing" width="300"/>
