@@ -1,3 +1,7 @@
+<head>
+  <link rel="icon" href="/assets/favicon.jpg" type="image/x-icon">
+</head>
+
 <h1 align="center">
   <img src="/images/dailogy_logo.jpg" alt="drawing" width="100"/>
 </h1>

@@ -7,6 +7,10 @@ redirect_from:
   - /resume
 ---
 
+<head>
+  <link rel="icon" href="/assets/favicon.jpg" type="image/x-icon">
+</head>
+
 {% include base_path %}
 
 Download [here](/files/Daniele Didino - Resume.pdf) the pdf version.

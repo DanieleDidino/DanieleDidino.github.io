@@ -4,6 +4,10 @@ excerpt: "Chat with the documents from the <i>Agentur für Arbeit</i> <br/><img 
 collection: LLM_projects
 ---
 
+<head>
+  <link rel="icon" href="/assets/favicon.jpg" type="image/x-icon">
+</head>
+
 <h1 align="center">
 <img src="/images/chatbot_afa_1.png" alt="drawing" width="300"/>
 </h1>
