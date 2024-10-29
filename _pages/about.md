@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <head>
-    <link rel="icon" href="/assets/favicon.png" type="image/x-icon">
+    <link rel="icon" href="/assets/favicon.jpg" type="image/x-icon">
 </head>
 
 <div style="float: right; margin-left: 20px;">
