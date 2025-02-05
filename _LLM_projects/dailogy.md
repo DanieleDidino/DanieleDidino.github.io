@@ -67,7 +67,7 @@ The project includes several modules, each dedicated to specific aspects of our 
 
 2) **Synthetic Data Generation Module**: This module is focused on generating synthetic data to model dysfunctional and toxic language in couple communications. Due to the private nature of couple interactions, finding real examples of toxic language is challenging. Therefore, we generate synthetic examples to use in our Dailogy app, which improves large language models' ability to convert harmful language into respectful dialogue. Our synthetic data includes realistic examples of various toxic behaviors, such as insults, threats, and manipulation, across different contexts. [Read the full story](/dailogy/synthetic_data/).
 
-3) **Evaluation Methods**: We are actively working on methods to evaluate how well the functional versions of the dysfunctional language perform. This will ensure that our transformations are not only respectful and inclusive but also contextually appropriate and effective. This section is coming soon.
+3) **Evaluation Methods**: We are actively working on methods to evaluate how well the functional versions of the dysfunctional language perform. This will ensure that our transformations are not only respectful and inclusive but also contextually appropriate and effective.
 
 ## Funding
 
