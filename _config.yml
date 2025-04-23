@@ -208,6 +208,9 @@ collections:
   LLM_projects:
     output: true
     permalink: /:collection/:path/
+  DL_projects:
+    output: true
+    permalink: /:collection/:path/  
   statistics:
     output: true
     permalink: /:collection/:path/
@@ -251,6 +254,14 @@ defaults:
   - scope:
       path: ""
       type: data_viz
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _DL_projects
+  - scope:
+      path: ""
+      type: DL_projects
     values:
       layout: single
       author_profile: true
