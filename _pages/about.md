@@ -24,4 +24,4 @@ My passion for data analysis is evident through my ongoing collaboration with re
 
 I have collaborated with diverse, cross-functional teams, enhancing my communication skills and my ability to explain technical topics to general audiences. My research and mentoring experience equips me to effectively guide colleagues through complex data analysis and results.
 
-My commitment to continuous learning and my technical and interpersonal skills enable me to deliver comprehensive data science solutions. Explore my [portfolio](/data_proj/) of data projects from my education, personal ventures, and work at Dailogy. *More updates are coming soon!*
+My commitment to continuous learning, along with my technical and interpersonal skills, enables me to deliver comprehensive data science solutions. Explore my portfolio featuring [data projects](/data_proj/) and [visualizations](/_data_viz/) from both academic and personal endeavors.
