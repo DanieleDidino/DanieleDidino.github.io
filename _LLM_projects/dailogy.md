@@ -59,12 +59,10 @@ collection: LLM_projects
 
 Thank you for your interest in our project.
 
-Dailogy is a project aimed at developing tools to detect dysfunctional and toxic language in chat conversations and provide suggestions to make the language more respectful and inclusive.
+**Dailogy** is a project dedicated to developing tools that detect dysfunctional and toxic language in chat conversations and suggest ways to make communication more respectful and inclusive.
 
-The project includes several modules, each dedicated to specific aspects of our overall goal:
+Here are some of the projects I worked on:
 
-1) **App Development Module**: This key module focuses on developing an app designed to transform dysfunctional and toxic language into more respectful and inclusive communication. Our current focus is particularly on interactions between couples or ex-couples who need to communicate regularly. By creating tools to detect and mitigate harmful language, we aim to foster more respectful and inclusive conversations. [Read the full story](/dailogy/dailogy_app/).
+- **App Development**: This project focused on building an app designed to transform dysfunctional and toxic language into more respectful and inclusive dialogue. The primary use case centered around communication between couples or ex-partners who need to stay in touch. By developing tools that detect and reframe harmful language, we aimed to support healthier, more empathetic interactions. [Read the full story](/dailogy/dailogy_app/).
 
-2) **Synthetic Data Generation Module**: This module is focused on generating synthetic data to model dysfunctional and toxic language in couple communications. Due to the private nature of couple interactions, finding real examples of toxic language is challenging. Therefore, we generate synthetic examples to use in our Dailogy app, which improves large language models' ability to convert harmful language into respectful dialogue. Our synthetic data includes realistic examples of various toxic behaviors, such as insults, threats, and manipulation, across different contexts. [Read the full story](/dailogy/synthetic_data/).
-
-3) **Evaluation Methods**: We are actively working on methods to evaluate how well the functional versions of the dysfunctional language perform. This will ensure that our transformations are not only respectful and inclusive but also contextually appropriate and effective.
+- **Synthetic Data Generation**: Due to the sensitive and private nature of couple conversations, collecting real examples of toxic language was not feasible. This project tackled that challenge by generating synthetic data that realistically modeled toxic behaviors—such as insults, threats, and manipulation—across a range of relationship dynamics. These synthetic examples were then embedded to support downstream tasks, and also used in advanced prompting techniques, such as dynamic few-shot prompting, to improve large language models’ ability to detect and rephrase harmful language. [Read the full story](/dailogy/synthetic_data/).
