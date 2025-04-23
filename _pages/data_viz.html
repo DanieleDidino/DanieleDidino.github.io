@@ -1,15 +1,99 @@
 ---
 layout: archive
-title: "Data Visualization"
 permalink: /data_viz/
 author_profile: true
 ---
 
+<!-- ---                         -->
+<!-- layout: archive             -->
+<!-- title: "Data Visualization" -->
+<!-- permalink: /data_viz/       -->
+<!-- author_profile: true        -->
+<!-- ---                         -->
+
+<head>
+  <link rel="icon" href="/assets/favicon.jpg" type="image/x-icon">
+</head>
+
 {% include base_path %}
 
+<style>
+  h1 {
+    text-align: center;
+  }
+  .project {
+      margin-bottom: 20px;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+  }
+  .project-title {
+      font-size: 24px;
+      margin: 0;
+  }
+  .project-description {
+      font-size: 16px;
+      margin: 5px 0;
+  }
+  .project-body {
+      display: flex;
+      align-items: flex-start;
+  }
+  .project-body img {
+      max-width: 150px;
+      margin-right: 15px;
+  }
+  .project-body p {
+      margin: 0;
+  }
+  hr {
+    height:3px;
+    border:none;
+    color:#333;
+    background-color:#333;
+    border-top: 1px solid #ccc;
+    margin: 20px 0;
+  }
+</style>
 
-{% for post in site.data_viz %}
-  {% include archive-single.html %}
-  <hr style="height:3px; border:none; color:#333; background-color:#333;"> <!-- Add a horizontal line between sections -->
-{% endfor %}
+<!-- {% for post in site.data_viz %}                                            -->
+<!--   {% include archive-single.html %}                                        -->
+<!--   <hr style="height:3px; border:none; color:#333; background-color:#333;"> --> <!-- Add a horizontal line between sections -->
+<!-- {% endfor %}                                                               -->
 
+<h1 align="left">
+  <br>Data Visualization</br>
+</h1>
+
+<!-- Videogame Sales (1980-2016) -->
+<div class="project">
+  <h2 class="project-title">
+      <a href="../data_viz/videogame_sales/" target="_self">Videogame Sales (1980-2016)</i></a>
+  </h2>
+  <p class="project-description">Discover the Evolution of Video Game Sales.</i></p>
+  <div class="project-body">
+      <img src="/images/dashboard-videogame_sales.png" alt="Dashboard Videogame Sales" width="300">
+      <p>
+        Explore my interactive Tableau Dashboard that delves into the dynamic world of video game 
+        sales from 1980 to 2016. This comprehensive visualization breaks down the sales data by 
+        genre and market, including global, North America (USA, Canada), Europe, and Japan. Users 
+        can personalize the view by selecting specific year ranges to focus on trends that matter most.
+      </p>
+  </div>
+</div>
+
+<!-- Airbnb Prices in European Cities -->
+<div class="project">
+  <h2 class="project-title">
+      <a href="../data_viz/airbnb_europe/" target="_self">Airbnb Prices in European Cities</i></a>
+  </h2>
+  <p class="project-description">Explore pricing information for Airbnb accommodations.</i></p>
+  <div class="project-body">
+      <img src="/images/dashboard-airbnb.png" alt="Dashboard Airbnb" width="300">
+      <p>
+        Dive into an interactive Tableau Dashboard to explore comprehensive pricing information and 
+        more across nine major European cities: Amsterdam, Athens, Barcelona, Berlin, Budapest, 
+        Lisbon, Paris, Rome, and Vienna.
+      </p>
+  </div>
+</div>
