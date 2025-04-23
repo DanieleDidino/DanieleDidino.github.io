@@ -3,8 +3,8 @@ main:
   - title: "Data Science & Projects"
     url: /data_proj/
   
-  # - title: "Data Visualization"
-  #   url: /data_viz/
+  - title: "Data Visualization"
+    url: /data_viz/
   
   # - title: "LLM"
   #   url: /LLM_projects/
@@ -12,9 +12,9 @@ main:
   - title: "Statistics & Research"
     url: /statistics/
 
-  - title: "CV"
-    url: /cv/
-    # url: /files/DanieleDidino_Resume.pdf
+  # - title: "CV"
+  #   url: /cv/
+  #   # url: /files/DanieleDidino_Resume.pdf
   
   # - title: "Blog Posts"
   #   url: /year-archive/
