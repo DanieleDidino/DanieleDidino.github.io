@@ -8,7 +8,31 @@ collection: DL_projects
   <link rel="icon" href="/assets/favicon.jpg" type="image/x-icon">
 </head>
 
-*Coming soon!*
+<p align="center">
+<img src="/images/toxic_clf_screenshot.png", alt="drawing", width="800"/>
+</p>
+
+A lightweight model for Detecting Toxic Language
+
+<style>
+  * {
+    box-sizing: border-box;
+  }
+  
+  /* Create two equal columns that floats next to each other */
+  .column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+</style>
 
 <body>
 <div class="row">
@@ -28,8 +52,6 @@ collection: DL_projects
   </div>
 </div>
 </body>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -68,9 +90,7 @@ collection: DL_projects
 
 ## About the Project
 
-<p align="center">
-<img src="images/toxic_clf_screenshot.png", alt="drawing", width="800"/>
-</p>
+
 
 Thank you for your interest in this project!
 
