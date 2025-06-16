@@ -9,7 +9,7 @@ collection: DL_projects
 </head>
 
 <h1 align="center">
-<img src="/images/toxic_clf_screenshot.png" alt="drawing" width="600"/>
+<img src="/images/toxic_clf_screenshot.png" alt="drawing" width="700"/>
 </h1>
 
 A lightweight model for Detecting Toxic Language
