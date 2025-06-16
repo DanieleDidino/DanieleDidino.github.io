@@ -8,9 +8,9 @@ collection: DL_projects
   <link rel="icon" href="/assets/favicon.jpg" type="image/x-icon">
 </head>
 
-<p align="center">
+<h1 align="center">
 <img src="/images/toxic_clf_screenshot.png", alt="drawing", width="800"/>
-</p>
+</h1>
 
 A lightweight model for Detecting Toxic Language
 
