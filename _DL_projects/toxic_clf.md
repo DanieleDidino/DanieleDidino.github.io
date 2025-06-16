@@ -9,12 +9,13 @@ collection: DL_projects
 </head>
 
 <h1 align="center">
-<img src="/images/toxic_clf_screenshot.png", alt="drawing", width="800"/>
+<img src="/images/toxic_clf_screenshot.png" alt="drawing" width="300"/>
 </h1>
 
 A lightweight model for Detecting Toxic Language
 
 <style>
+
   * {
     box-sizing: border-box;
   }
@@ -32,6 +33,7 @@ A lightweight model for Detecting Toxic Language
     display: table;
     clear: both;
   }
+
 </style>
 
 <body>
